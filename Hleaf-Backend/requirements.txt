@@ -1,0 +1,6 @@
+flask
+flask-cors
+tensorflow
+tabulate
+pandas
+opencv-python
